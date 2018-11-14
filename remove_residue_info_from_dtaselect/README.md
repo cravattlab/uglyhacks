@@ -1,0 +1,1 @@
+This hack is necessary to remove extraneous information from IP2's DTASelect output. Two columns were added in Novemeber 2018 which trip up cimage.
